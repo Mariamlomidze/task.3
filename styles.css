@@ -1,0 +1,145 @@
+body{
+    max-width: 1440px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    margin: 0 auto;
+    font-size: 24px;
+    padding-top: 57px;
+}
+
+.container{
+    padding-right: 170px;
+    padding-left: 103px;
+    padding-bottom: 122px;
+}
+.header, .top-nav ul{
+    display: flex;
+    align-items: center;
+}
+
+.header{
+    max-width: 1167px;
+    margin: auto;
+    height: 96px;
+    justify-content: space-between;
+    border: 2px solid #0F54EE;
+    color: #0F54EE;
+    margin-bottom: 103px;
+    font-size: 20px;
+}
+
+.nav-item{
+    padding-left: 125px;
+}
+
+.active{
+    color: #F90D0D;
+}
+
+.main{
+    margin-bottom: 184px;
+}
+
+
+.paragraph img{
+      margin-bottom: 28px;
+    }
+
+.paragraph p{
+    width: 793px;
+    height: 22px;
+    left: 103px;
+    top: 1008px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    color: #0F54EE;
+    }
+.article1 {
+    position: absolute;
+    width: 237px;
+    height: 149px;
+    left: 146px;
+    top: 1271px
+}
+
+.article2 {
+    position: absolute;
+    width: 237px;
+    height: 149px;
+    left: 752px;
+    top: 1271px;
+
+}
+
+h1{
+    position: absolute;
+    width: 230px;
+    height: 147px;
+    left: 420px;
+    top: 1271px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+h2 {
+
+    position: absolute;
+    width: 230px;
+    height: 147px;
+    left: 1026px;
+    top: 1271px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.B1 {
+    position: absolute;
+    width: 561px;
+    height: 264px;
+    left: 103px;
+    top: 1214px;
+    background: #D9D9D9;
+}
+
+.B2 {
+    position: absolute;
+    width: 561px;
+    height: 264px;
+    left: 709px;
+    top: 1214px;
+    background: #D9D9D9;
+
+}
+
+.footer{
+    max-width: 1440px;
+    background-color: #D9D9D9;
+}
+
+.footer-info{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 116px 87px 130px 103px;
+}
+
+.contact-info{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.contact-info h3{
+    color: #0F54EE;
+    margin-bottom: 20px;
+}
+
+.contact-title{
+    color: #249C63;
+}
